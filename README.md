@@ -48,16 +48,26 @@ gif
 ## 문제(3)
   
 * Satisfy the go linter
-* 최고점 : 
+* 최고점 : 30
 * 두개의 문장 추가하기
 
-<img src="" width="60%" height="70%"/>
-<img src="" width="60%" height="70%"/>
+<img src="https://user-images.githubusercontent.com/43926186/144106186-ea6264d3-6123-46ac-acbb-4a4f582d957e.png" width="60%" height="70%"/>
+<img src="https://user-images.githubusercontent.com/43926186/144106242-1b8df482-0b3f-4b3d-ae2d-57e6620efe15.png" width="60%" height="70%"/>
 
 **입력**
     
-<img src="" width="40%" height="50%"/>
+<img src="https://user-images.githubusercontent.com/43926186/144106130-cce2ba66-e5ac-4b6c-8479-0464a2275261.png" width="40%" height="50%"/>
 
+* 일단 Version이 있는 4행으로 이동함(가고싶은 라인 넘버 입력 후 G 입력 시 이동)
+* yw : 현재 word의 끝까지 복사한다.
+* O : 현재 라인을 다음 줄로 밀력 입력 모드를 시작 후 // 입력
+* p로 복사 했던 Version 입력
+* a : 현재 위치 다음 칸에서 입력 모드 시작하고 TODO입력
+* Y : 현재 라인을 복사
+* p : 현재 위치 다음에 붙여넣기
+* 입력 후 밑으로 내려가서 Debug복사하여 위로 올라가 붙여 넣기
+* 한칸 앞으로 옮겨 dw : 현재 wor의 끝까지 잘라내기 기능
+* ZZ로 빠져나옴
 
 **솔루션 영상**
 
@@ -66,15 +76,20 @@ gif
 ## 문제(4)
   
 * Plotting some variables in python
-* 최고점 : 
+* 최고점 : 57
 * 1을 각 행의 숫자로 교체하고 k도 교체하기
-<img src="" width="60%" height="70%"/>
-<img src="" width="60%" height="70%"/>
+
+<img src="https://user-images.githubusercontent.com/43926186/144106975-31539a29-c56d-40ae-9ab2-db970ed74f8d.png" width="60%" height="70%"/>
+<img src="https://user-images.githubusercontent.com/43926186/144107024-52083dba-f081-491b-8796-f2d40b937d67.png" width="60%" height="70%"/>
 
 **입력**
     
-<img src="" width="40%" height="50%"/>
+<img src="https://user-images.githubusercontent.com/43926186/144108039-1793aeb8-1982-4d90-8aff-c0b941beedb8.png" width="80%" height="90%"/>
 
+* 먼저 y1을 변경하기 쉽게 텍스트 대치를 이용해 y1를 abs(y1)로 변경함
+* 여기서 맨 아랫줄로 이동하는데 /k를 이용해 k위치로 이동 
+* r : 한 글자만 바꿀 때 활용함
+* 그리고 맨 위부터 텍스트 대치를 이용해 1을 각 라인의 맞는 숫자로 변경하면서 내려감
 
 **솔루션 영상**
 
@@ -83,16 +98,21 @@ gif
 ## 문제(5)
   
 * Python dataclassed
-* 최고점 : 
+* 최고점 : 29
 * fileds추가하기
 
-<img src="" width="60%" height="70%"/>
-<img src="" width="60%" height="70%"/>
+<img src="https://user-images.githubusercontent.com/43926186/144108394-009cd45f-09bb-4255-aaf3-acacc6594704.png" width="60%" height="70%"/>
+<img src="https://user-images.githubusercontent.com/43926186/144108446-5d18df12-376e-4cae-8d8c-672eb8f22ab8.png" width="60%" height="70%"/>
 
 **입력**
     
-<img src="" width="40%" height="50%"/>
+<img src="https://user-images.githubusercontent.com/43926186/144109030-799aea76-f77e-4888-b47a-17ee3aca6dc9.png" width="40%" height="50%"/>
 
+* 5G를 이용하여 5행으로 이동한다
+* yw앞에 숫자를 입력하면 그만큼 얻어내는데 마지막행으로 이동하여 붙여넣기 함
+* J : 현재행과 아래 행 결합 하여 한줄로 만듬
+* 텍스트 대치를 이용해 : 부터 필요한 공간 만큼 설정 후 ,로 교체
+* . : 문자 한개와 대치됨
 
 **솔루션 영상**
 
