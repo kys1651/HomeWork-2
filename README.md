@@ -25,16 +25,21 @@ gif
 ## 문제(2)
   
 * simple replacements
-* 최고점 : 
+* 최고점 : 26
 * sublime와 emacs글자를 vim으로 교체
 
-<img src="" width="60%" height="70%"/>
-<img src="" width="60%" height="70%"/>
+<img src="https://user-images.githubusercontent.com/43926186/144103277-800a1ba7-8b21-4eed-bc72-2f2da9f801f1.png" width="60%" height="70%"/>
+<img src="https://user-images.githubusercontent.com/43926186/144103337-0b07db84-7102-4810-aef6-a520037b74ec.png" width="60%" height="70%"/>
 
 **입력**
     
 <img src="https://user-images.githubusercontent.com/43926186/144102777-c53be938-e52d-4044-8dff-2a9e64238401.png" width="40%" height="50%"/>
 
+* %s/str/replace/g : str -> replace로 치환함
+* str은 sublime와 emacs다.
+* sublime는 7글자인데 su부터 시작하는 글자 중 me로 끝나는(su.*me)글자를 찾으면 1글자 줄일 수 있다.
+* \|를 이용하면 str을 두개를 줄 수 있다.
+* g옵션은 한 행에 '원래 문자열'에 입력한 패턴이 여러번 나오면 전체를 변경한다.
 
 **솔루션 영상**
 
