@@ -4,6 +4,7 @@
 
 * Add quotes to ansible playbook
 * 최고점 : 9
+* " 추가하기
 
 <img src="https://user-images.githubusercontent.com/43926186/144050811-62c7367d-f62e-431a-9c2e-acf93b1d8650.png" width="60%" height="70%"/>
 <img src="https://user-images.githubusercontent.com/43926186/144051040-9126b28d-b9a8-46c9-8443-16e887d1c248.png" width="60%" height="70%"/>
@@ -25,6 +26,7 @@ gif로 넣기
   
 * simple replacements
 * 최고점 : 
+* sublime와 emacs글자를 vim으로 교체
 
 <img src="" width="60%" height="70%"/>
 <img src="" width="60%" height="70%"/>
@@ -41,6 +43,7 @@ gif로 넣기
   
 * Satisfy the go linter
 * 최고점 : 
+* 두개의 문장 추가하기
 
 <img src="" width="60%" height="70%"/>
 <img src="" width="60%" height="70%"/>
@@ -57,7 +60,7 @@ gif로 넣기
   
 * Plotting some variables in python
 * 최고점 : 
-
+* 1을 각 행의 숫자로 교체하고 k도 교체하기
 <img src="" width="60%" height="70%"/>
 <img src="" width="60%" height="70%"/>
 
@@ -73,6 +76,7 @@ gif로 넣기
   
 * Python dataclassed
 * 최고점 : 
+* fileds추가하기
 
 <img src="" width="60%" height="70%"/>
 <img src="" width="60%" height="70%"/>
