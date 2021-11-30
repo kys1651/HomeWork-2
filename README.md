@@ -4,7 +4,7 @@
 
 * Add quotes to ansible playbook
 * 최고점 : 9
-* " 추가하기
+*  " 추가하기
 
 <img src="https://user-images.githubusercontent.com/43926186/144050811-62c7367d-f62e-431a-9c2e-acf93b1d8650.png" width="60%" height="70%"/>
 <img src="https://user-images.githubusercontent.com/43926186/144051040-9126b28d-b9a8-46c9-8443-16e887d1c248.png" width="60%" height="70%"/>
@@ -20,7 +20,7 @@
 
 **솔루션 영상**
 
-gif로 넣기
+gif
 
 ## 문제(2)
   
@@ -31,13 +31,14 @@ gif로 넣기
 <img src="" width="60%" height="70%"/>
 <img src="" width="60%" height="70%"/>
 
-***입력***
+**입력**
     
-<img src="" width="60%" height="70%"/>
+<img src="https://user-images.githubusercontent.com/43926186/144102777-c53be938-e52d-4044-8dff-2a9e64238401.png" width="40%" height="50%"/>
 
 
-***솔루션 영상***
-gif로 넣기
+**솔루션 영상**
+
+gif
 
 ## 문제(3)
   
@@ -48,13 +49,14 @@ gif로 넣기
 <img src="" width="60%" height="70%"/>
 <img src="" width="60%" height="70%"/>
 
-***입력***
+**입력**
     
-<img src="" width="60%" height="70%"/>
+<img src="" width="40%" height="50%"/>
 
 
-***솔루션 영상***
-gif로 넣기
+**솔루션 영상**
+
+gif
 
 ## 문제(4)
   
@@ -64,13 +66,14 @@ gif로 넣기
 <img src="" width="60%" height="70%"/>
 <img src="" width="60%" height="70%"/>
 
-***입력***
+**입력**
     
-<img src="" width="60%" height="70%"/>
+<img src="" width="40%" height="50%"/>
 
 
-***솔루션 영상***
-gif로 넣기
+**솔루션 영상**
+
+gif
 
 ## 문제(5)
   
@@ -81,12 +84,13 @@ gif로 넣기
 <img src="" width="60%" height="70%"/>
 <img src="" width="60%" height="70%"/>
 
-***입력***
+**입력**
     
-<img src="" width="60%" height="70%"/>
+<img src="" width="40%" height="50%"/>
 
 
-***솔루션 영상***
-gif로 넣기
+**솔루션 영상**
+
+gif
 
 
