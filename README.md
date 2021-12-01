@@ -72,7 +72,8 @@
 
 **솔루션 영상**
 
-gif
+![과제#2-3](https://user-images.githubusercontent.com/43926186/144224435-a57ebbf9-574e-4960-ac0c-a210f44f00a2.gif)
+
 
 ## 문제(4)
   
