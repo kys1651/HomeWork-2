@@ -95,7 +95,7 @@
 
 **솔루션 영상**
 
-gif
+![과제#2-4](https://user-images.githubusercontent.com/43926186/144224617-42884a97-c2ee-47f9-906d-7e5d4dc07e06.gif)
 
 ## 문제(5)
   
