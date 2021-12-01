@@ -44,7 +44,7 @@
 
 **솔루션 영상**
 
-gif
+![과제#2-2](https://user-images.githubusercontent.com/43926186/144224125-0d786f02-7de7-4024-9ca0-a5ef30599ede.gif)
 
 ## 문제(3)
   
