@@ -118,6 +118,6 @@
 
 **솔루션 영상**
 
-gif
+![과제#2-5](https://user-images.githubusercontent.com/43926186/144224909-a3a02438-fdb3-46f1-b579-ff835b531269.gif)
 
 
