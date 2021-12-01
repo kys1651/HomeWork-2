@@ -20,7 +20,8 @@
 
 **솔루션 영상**
 
-gif
+![과제#2-1](https://user-images.githubusercontent.com/43926186/144218122-872a7e9e-eaf6-43d1-b028-0e0efae5f6ba.gif)
+
 
 ## 문제(2)
   
